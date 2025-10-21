@@ -1,0 +1,231 @@
+body{
+
+background-image: url(img/me.jpg); 
+  background-size: 50%;
+ background-position: 50%
+
+
+
+}
+
+h1{
+font-family: sans-serif;
+font-weight: 100;
+  color: hsl(0, 0%, 0%);
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  width: 500px ;
+}
+
+#vol6{
+
+font-family: sans-serif;
+font-weight: 100;
+  color: lch(100% 0.01 296.81);
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  width: 500px ;
+
+}
+
+#vol6:hover{
+
+color: rgb(49, 208, 208);
+letter-spacing: 2px;
+font-size: x-large;
+text-decoration: wavy;
+
+}
+
+h3{
+
+font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: hsl(0, 0%, 0%);
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  width: 60%;
+
+
+}
+
+#para1{
+
+font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000;
+  text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.5);
+  width: 20%;
+  position: absolute;
+  left: 300px;
+
+}
+
+#head{
+
+
+font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000;
+  text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.5);
+  width: 20%;
+  position: absolute;
+  left: 800px;
+
+}
+
+#eevee{
+
+    
+    position: relative;
+    left: 750px;
+    height: 300px;
+    width: 300px;
+
+}
+
+#eyes{
+
+font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000;
+  text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.5);
+  width: 20%;
+  position: absolute;
+  left: 300px;
+  top: 110%;
+
+
+}
+
+#haunter{
+
+ position: absolute;
+  left: 300px;
+  top: 70%;
+  height: 250px;
+  width: 250px;
+
+}
+
+#remember{
+
+ font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000;
+  text-shadow: 2px 2px 5px #ffffff;
+  width: 20%;
+  position: absolute;
+  left: 800px;
+  top: 140%;
+
+}
+
+#mew{
+
+ position: absolute;
+  left: 800px;
+  top: 100%;
+  height: 300px;
+  width: 300px;
+
+
+}
+
+#scent{
+
+font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000;
+  text-shadow: 2px 2px 5px #ffffff;
+  width: 20%;
+  position: absolute;
+  left: 300px;
+  top: 170%;
+
+}
+
+#sly{
+
+ position: absolute;
+  left: 315px;
+  top: 135%;
+  height: 250px;
+  width: 250px;
+
+
+
+}
+
+
+#hope{
+
+
+font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000;
+  text-shadow: 2px 2px 5px #ffffff;
+  width: 20%;
+  position: absolute;
+  left: 820px;
+  top: 170%;
+
+}
+
+#somebody{
+
+font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000;
+  text-shadow: 2px 2px 5px #ffffff;
+  width: 20%;
+  position: absolute;
+  left: 630px;
+  top: 200%;
+
+
+}
+#image{
+
+font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000;
+  text-shadow: 2px 2px 5px #ffffff;
+  width: 1000px;
+  position: absolute;
+  
+
+
+
+}
+
+#button{
+
+
+position: relative;
+left: 682px;
+top: 1250px;
+
+
+}
+
+#home{
+
+
+
+position: relative;
+left: 8px;
+top: 1250px;
+font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000;
+  text-shadow: 2px 2px 5px #ffffff;
+
+}
