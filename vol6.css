@@ -1,3 +1,6 @@
+ * {cursor: url(https://cur.cursors-4u.net/cursors/cur-11/cur1039.cur), auto !important;} 
+
+
 body{
 
 background-image: url(img/me.jpg); 
@@ -8,9 +11,19 @@ background-image: url(img/me.jpg);
 
 }
 
+
+#header{
+
+color: hwb(0 100% 0%);
+font-family: sans-serif;
+ text-shadow: 2px 2px 5px hwb(0 100% 0%);
+
+
+}
+
 h1{
 font-family: sans-serif;
-font-weight: 100;
+
   color: hsl(0, 0%, 0%);
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
   width: 500px ;
@@ -19,7 +32,6 @@ font-weight: 100;
 #vol6{
 
 font-family: sans-serif;
-font-weight: 100;
   color: lch(100% 0.01 296.81);
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
   width: 500px ;
@@ -47,16 +59,23 @@ font-family: "Jersey 10", sans-serif;
 
 }
 
+
+#date{
+
+
+color: #ffffff;
+
+}
+
 #para1{
 
 font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
   color: #000000;
-  text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.5);
+  text-shadow: 2px 2px 5px #00000080;
   width: 20%;
-  position: absolute;
-  left: 300px;
+  margin-left: 20%;
 
 }
 
@@ -66,21 +85,18 @@ font-family: "Jersey 10", sans-serif;
 font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
-  color: #000000;
-  text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.5);
+  color: rgb(49, 208, 208);
+  text-shadow: 2px 2px 5px hsla(0, 0%, 100%, 0.502);
   width: 20%;
-  position: absolute;
-  left: 800px;
+ margin-left: 55%;
+
 
 }
 
 #eevee{
 
     
-    position: relative;
-    left: 750px;
-    height: 300px;
-    width: 300px;
+margin-left: 55%;
 
 }
 
@@ -90,20 +106,18 @@ font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
   color: #000000;
-  text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.5);
+  text-shadow: 2px 2px 5px #00000080;
   width: 20%;
-  position: absolute;
-  left: 300px;
-  top: 110%;
+ margin-left: 20%;
+ margin-top: -30%;
 
 
 }
 
 #haunter{
 
- position: absolute;
-  left: 300px;
-  top: 70%;
+margin-left: 20%;
+margin-top: 5%;
   height: 250px;
   width: 250px;
 
@@ -115,19 +129,15 @@ font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
   color: #000000;
-  text-shadow: 2px 2px 5px #ffffff;
+  text-shadow: 2px 2px 5px hsl(0, 0%, 0%);
   width: 20%;
-  position: absolute;
-  left: 800px;
-  top: 140%;
+ margin-left: 55%;
 
 }
 
 #mew{
 
- position: absolute;
-  left: 800px;
-  top: 100%;
+margin-left: 55%;
   height: 300px;
   width: 300px;
 
@@ -140,19 +150,17 @@ font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
   color: #000000;
-  text-shadow: 2px 2px 5px #ffffff;
+  text-shadow: 2px 2px 5px hsl(0, 0%, 0%);
   width: 20%;
-  position: absolute;
-  left: 300px;
-  top: 170%;
+margin-left: 20%;
+margin-top: -25%;
 
 }
 
 #sly{
 
- position: absolute;
-  left: 315px;
-  top: 135%;
+margin-top: 10%;
+margin-left: 60%;
   height: 250px;
   width: 250px;
 
@@ -168,11 +176,10 @@ font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
   color: #000000;
-  text-shadow: 2px 2px 5px #ffffff;
+  text-shadow: 2px 2px 5px hsl(0, 0%, 0%);
   width: 20%;
-  position: absolute;
-  left: 820px;
-  top: 170%;
+  margin-left: 20%;
+
 
 }
 
@@ -182,11 +189,15 @@ font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
   color: #000000;
-  text-shadow: 2px 2px 5px #ffffff;
+  text-shadow: 2px 2px 5px hsl(0, 0%, 0%);
   width: 20%;
-  position: absolute;
-  left: 630px;
-  top: 200%;
+
+
+}
+
+#song{
+
+  text-shadow: 2px 2px 5px hwb(0 100% 0%);
 
 
 }
@@ -196,10 +207,9 @@ font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
   color: #000000;
-  text-shadow: 2px 2px 5px #ffffff;
+  text-shadow: 2px 2px 5px hsl(0, 0%, 0%);
   width: 1000px;
-  position: absolute;
-  
+
 
 
 
@@ -208,10 +218,6 @@ font-family: "Jersey 10", sans-serif;
 #button{
 
 
-position: relative;
-left: 682px;
-top: 1250px;
-
 
 }
 
@@ -219,9 +225,7 @@ top: 1250px;
 
 
 
-position: relative;
-left: 8px;
-top: 1250px;
+
 font-family: "Jersey 10", sans-serif;
   font-weight: 400;
   font-style: normal;
